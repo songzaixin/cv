@@ -11,8 +11,7 @@ I have become a research fellow on ***electric machine*** since 2016. I received
 My research interests cover the design, analysis, optimization, and control of emerging permanent magnet machines particularly the high-speed machines and multi-phase machines, propulsion motors for automotive and aerospace applications, multi-physics modeling, simulation, and tests.
 
 # More About Me, Please See
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) |
-| ------------- | ------------- |
+| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience]() |
 
 ---
 
