@@ -2,7 +2,7 @@
 
 <div align=center><img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" /></div>
 
-# Zaixin SONG
+<center><font size=12> Zaixin SONG </font></center>
 
 ## My Brief Introduction
 
