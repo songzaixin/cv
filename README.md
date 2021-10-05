@@ -1,7 +1,7 @@
 ## Here's My Page
 ---
 
-<img src="/image/icon1.jpg" alt="image-icon1" style="zoom:50%;" />
+<img src="https://github.com/songzaixin/cv/blob/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:50%;" />
 <center><font size=16> Zaixin SONG </font></center>
 ### My Brief Introduction
 
