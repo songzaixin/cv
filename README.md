@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Here's My Page
+---
 
-You can use the [editor on GitHub](https://github.com/songzaixin/cv/edit/zxs-patch-cv/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="/image/icon1.jpg" alt="image-icon1" style="zoom:50%;" />
+<center><font size=16> Zaixin SONG </font></center>
+### My Brief Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> I have become a research fellow on ***electric machine*** since 2016. I received the B.Eng. and M.Eng. degrees in electrical engineering and automation from Harbin Institute of Technology (HIT), Harbin, China, in 2016 and 2018, respectively. I received the Ph.D. degree in School of Energy and Environment from City University of Hong Kong in 2021. I have been working on electric machine for years. Currently, I work as a ***Postdoctoral Fellow*** in City University of Hong Kong. 
+>
+> My research interests cover the design, analysis, optimization, and control of emerging permanent magnet machines particularly the high-speed machines and multi-phase machines, propulsion motors for automotive and aerospace applications, multi-physics modeling, simulation, and tests.
 
-### Markdown
+### More About Me, Please See
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/songzaixin/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Created by Zaixin Song
+Contact Me: 
+* Email: zaixin.song@cityu.edu.hk
+* WeChat: song_zaixin
