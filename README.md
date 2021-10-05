@@ -1,7 +1,8 @@
-# Zaixin Song's Profile Page
+## Zaixin Song's Profile Page
 
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:50%;" />
-<left><font size=12> Zaixin SONG </font></left>
+
+<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" />
+<left><font size=10> Zaixin SONG </font></left>
 
 ## My Brief Introduction
 
