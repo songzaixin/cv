@@ -10,7 +10,7 @@ I have become a research fellow on ***electric machine*** since 2016. I received
 
 My research interests cover the design, analysis, optimization, and control of emerging permanent magnet machines particularly the high-speed machines and multi-phase machines, propulsion motors for automotive and aerospace applications, multi-physics modeling, simulation, and tests.
 
-### [Download my CV](https://drive.google.com/file/d/1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0/view)
+### [<u>Download My CV</u> ⇲](https://drive.google.com/file/d/1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0/view)
 
 # More About Me, Please See
 
