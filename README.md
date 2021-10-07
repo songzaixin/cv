@@ -14,6 +14,16 @@ My research interests cover the design, analysis, optimization, and control of e
 
 | [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Team](https://songzaixin.github.io/cv-team/) |
 
+# Related Organizations
+
+<div align=left style="color:#00FF00">
+<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:12.5%;" />
+<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:50%;" />
+<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:7.5%;" />
+<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:37.5%;" />
+<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:12.5%;" />
+</div>
+
 ---
 
 Created by *Zaixin Song*
