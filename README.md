@@ -4,6 +4,11 @@
 
 <center><font size=12> Zaixin SONG </font></center>
 
+# More About Me, Please See
+
+| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
+
+
 # My Brief Introduction
 
 I have become a research fellow on ***electric machine*** since 2016. I received the B.Eng. and M.Eng. degrees in electrical engineering and automation from Harbin Institute of Technology (HIT), Harbin, China, in 2016 and 2018, respectively. I received the Ph.D. degree in School of Energy and Environment from City University of Hong Kong in 2021. I have been working on electric machine for years. Currently, I work as a ***Postdoctoral Fellow*** in City University of Hong Kong. 
@@ -12,9 +17,6 @@ My research interests cover the design, analysis, optimization, and control of e
 
 ### [<u>Download My CV</u> ⇲](https://drive.google.com/file/d/1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0/view)
 
-# More About Me, Please See
-
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
 
 # Related Organizations
 
