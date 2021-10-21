@@ -8,6 +8,10 @@
 
 | [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
 
+---
+
+---
+
 
 # My Brief Introduction
 
