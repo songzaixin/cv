@@ -21,6 +21,35 @@ My research interests cover the design, analysis, optimization, and control of e
 
 ### [<u>Download My CV</u> ⇲](https://drive.google.com/file/d/1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0/view)
 
+# Research Interests
+
+Electric Machinery (Electric Motor & Generator): 
+
+* Permanent magnet synchronous machines, Brushless DC machines, Variable-speed drives; 
+
+* High-power-density machines, Slotless machines, Disc-type machines; 
+
+* High-torque-density machines, Flux-modulated machines, Compound magnetic-geared machines, Permanent magnet vernier machines, Axial-flux machines, Multi-port machines; 
+
+* Linear actuator machines, Wireless motor drives. 
+
+Electric Machine Design & Analysis: 
+
+* Energy-efficient machine design, Multi-objective optimization with intelligent machine learning algorithms, Human-machine collaborative machine design, Topology optimization; 
+
+* Magnetic field analysis, Analytical modeling, Semi-analytical modeling, Hybrid analytical modeling; 
+* Multi-physics modeling, Electromechanical vibration & acoustic noise analysis, NVH performance optimization, Thermal analysis, Multi-physics performance test. 
+
+Motor Control: 
+
+* Multi-phase motor control, Open-end-winding motor control, Series-end-winding motor control; 
+* Space vector control, Carrier-based PWM control. 
+
+Expertise in Fields: 
+* Transportation Electrification: Electric traction for electric & hybrid electric vehicles, Electric propulsion for electric & hybrid electric aircraft, Low-speed electric propulsion for electric ships, Aerospace actuation; 
+* Industrial Actuation Systems: Servo system, Robotic actuation, Linear actuator for laser cut;
+* Renewable Power Generation: Wind power generation, Tidal power generation, Wave power generation, Energy harvesting. 
+
 
 # Related Organizations
 
@@ -39,3 +68,4 @@ Created by *Zaixin Song*
 Contact Me: 
 * Email: zaixin.song@cityu.edu.hk
 * WeChat: song_zaixin
+
